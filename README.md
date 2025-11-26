@@ -26,7 +26,7 @@ Pada FileInfo, atribut pertama uri: Uri adalah URI yang diberikan ke kamera dan 
 
 Sementara atribut keempat relativePath: String adalah path relatif di dalam MediaStore, misalnya Environment.DIRECTORY_PICTURES atau Environment.DIRECTORY_MOVIES, yang kemudian dipakai saat mengisi RELATIVE_PATH di ContentValues. Nilai inilah yang menentukan folder tujuan di penyimpanan bersama ketika file disalin ke MediaStore (misalnya muncul di folder Pictures atau Movies yang bisa dilihat di galeri).
 
-## [Bonus] Explain the chronological order from when a user takes a picture until the file is stored in the MediaStore.
+## 3. [Bonus] Explain the chronological order from when a user takes a picture until the file is stored in the MediaStore.
 
 **Jawab:**
 
